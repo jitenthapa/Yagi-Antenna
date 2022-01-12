@@ -51,7 +51,7 @@ Director Position [mm] : 688
 - Now you can recieve the signals by tracking the antenna to the satellite.
 ![This is an image](images/sdr-sharp.png)
 
-If you have a SWRMeter, you can veiw the impedance and SWR of the antenna. The nanovna shows the SWR to be 1.59 with 53.5 Ohm impedance which seems good enough without matching so in order to make the build simpler, I did not use matching.
+If you have a SWRMeter, you can veiw the impedance and SWR of the antenna. I have used nanovna to measure the parameters. https://nanorfe.com/nanovna-v2.html The nanovna shows the SWR to be 1.59 with 53.5 Ohm impedance which seems good enough without matching so in order to make the build simpler, I did not use matching.
 
 ![This is an image](images/nanovna.jpg)
 
