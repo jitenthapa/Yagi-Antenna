@@ -1,5 +1,5 @@
 # Guide to Build a Yagi-Uda Antenna for Reception of SanoSat-1
-
+In this document we will see how we can design a Yagi-uda antenna with readily available materials to recieve the data from SanoSat-1 which is a 1P PockeQube. [http://orionspace.com.np/sanosat-1/]
 ## Baisc Requirements
 - Measuring Tape
 - Aluminium Boom
